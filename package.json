@@ -1,0 +1,17 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "dev": "tsc",
+    "serve": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

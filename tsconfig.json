@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outFile": "dist/index.js",
+        "sourceMap": true,
+        "target": "es5",
+        "lib":["es6","dom"],
+        "listEmittedFiles":true,
+        "sourceRoot": "src/index.ts",
+        "watch":true
+    },
+    "files": [
+        "src/index.ts"
+    ]
+}
